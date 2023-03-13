@@ -23,8 +23,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Product-Preview-Card-Component.git)
+- Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
