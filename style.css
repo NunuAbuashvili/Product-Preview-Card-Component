@@ -131,7 +131,7 @@ body {
 /* Desktop */
 @media only screen and (min-width: 994px) {
   #main-container {
-    max-width: 60%;
+    max-width: 37.5rem;
     max-height: 28rem;
     margin: 0;
     display: grid;
